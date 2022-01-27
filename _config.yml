@@ -1,1 +1,67 @@
-theme: jekyll-theme-architect
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Zahnarzt Dr. Sandra Daller
+title_separator: "|"
+name: "Dr. Sandra Daller"
+email: zahn@daller.org
+telefon: "06452 / 21013"
+locale: "de-AT"
+description: >-
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+logo: "/assets/images/icon.svg"
+atom_feed:
+  hide: true
+
+baseurl: ""
+url: "https://zahn.omsel.com"
+domain: "zahn.omsel.com"
+
+# Build settings
+markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "dirt"
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+
+include: ["_pages"]
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      sidebar:
+        - image: /assets/images/logo.svg
+          image_alt: "Dr. Sandra Oppeneiger"
+          title: "Öffnungszeiten"
+          text: "Mo. 9:00-12:00<br/>Di., Do., Sa., So. geschlossen<br/>Mi. 16:00-19:00<br/>Fr. 8:00-12:00"
+        - title: "Kontakt"
+          text: "Oberndorferstraße 1<br/>5541 Altenmarkt<br/><br/>Tel.: 06452 / 21013"
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      share: true
+      related: false
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

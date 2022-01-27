@@ -1,0 +1,13 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Über mich"
+    url: /about
+  - title: "Kontakt"
+    url: /kontakt
+  - title: "Öffnungszeiten"
+    url: /oeffnungszeiten
+  - title: "Impressum"
+    url: /impressum
+  - title: "Datenschutz"
+    url: /datenschutz

@@ -1,1 +1,7 @@
-/.idea/
+.idea
+_site
+_includes
+_layouts
+_sass
+.sass-cache
+.jekyll-metadata
