@@ -41,6 +41,7 @@ defaults:
       sidebar:
         - image: /assets/images/logo.svg
           image_alt: "Dr. Sandra Oppeneiger"
+          image_class: sidebar-img
           title: "Öffnungszeiten"
           text: "Mo. 9:00-12:00<br/>Di., Do., Sa., So. geschlossen<br/>Mi. 16:00-19:00<br/>Fr. 8:00-12:00"
         - title: "Kontakt"
