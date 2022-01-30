@@ -1,5 +1,6 @@
 ---
 permalink: /about
+last_modified_at: 2022-01-30
 title: "Über mich"
 feature_row:
   - image_path: /assets/images/sandra2.jpg

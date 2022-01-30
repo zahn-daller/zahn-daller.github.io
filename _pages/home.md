@@ -1,6 +1,7 @@
 ---
 layout: splash
 permalink: /
+last_modified_at: 2022-01-30
 specials:
   - title: "Lachgas"
     excerpt: "Viele Erwachsene und Kinder haben Angst vor dem Zahnarztbesuch oder sind sehr angespannt und verkrampft während der Behandlung. Eine Sedierung (Beruhigung bei vollem Bewusstsein) auf der Basis von Lachgas hilft Ihnen beim Entspannen, ebenso gegen Schmerz und Würgereiz."

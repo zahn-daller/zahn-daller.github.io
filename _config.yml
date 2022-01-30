@@ -6,7 +6,7 @@
 title: Zahnarzt Dr. Sandra Daller
 title_separator: "|"
 name: "Dr. Sandra Daller"
-email: zahn@daller.org
+email: praxis@daller.org
 telefon: "06452 / 21013"
 locale: "de-AT"
 description: >-
@@ -18,8 +18,8 @@ atom_feed:
   hide: true
 
 baseurl: ""
-url: "https://zahn.omsel.com"
-domain: "zahn.omsel.com"
+url: "https://zahn.daller.org"
+domain: "zahn.daller.org"
 
 # Build settings
 markdown: kramdown
@@ -28,6 +28,7 @@ minimal_mistakes_skin: "dirt"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-sitemap
 
 include: ["_pages"]
 

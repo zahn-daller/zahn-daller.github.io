@@ -1,6 +1,7 @@
 ---
 permalink: /oeffnungszeiten
 title: "Öffnungszeiten"
+last_modified_at: 2022-01-30
 ---
 Montag
 :   9:00 – 12:00
