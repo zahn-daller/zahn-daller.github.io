@@ -3,23 +3,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Zahnarzt Dr. Sandra Daller
+title: Zahnarzt Dr. med. dent. Sandra Daller
 title_separator: "|"
-name: "Dr. Sandra Daller"
+name: "Dr. med. dent. Sandra Daller"
 email: praxis@daller.org
 telefon: "06452 / 21013"
 locale: "de-AT"
 description: >-
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Zahnarzt Dr. med. dent. Sandra Daller in Altenmarkt im Pongau / Salzburg. Eben, Flachau, Radstadt
 logo: "/assets/images/icon.svg"
 atom_feed:
   hide: true
 
 baseurl: ""
-url: "https://zahn.daller.org"
-domain: "zahn.daller.org"
+url: "https://zahnarzt.daller.org"
+domain: "zahnarzt.daller.org"
 
 # Build settings
 markdown: kramdown
