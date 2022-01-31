@@ -41,18 +41,30 @@
 
 img.logo {
     max-height: 12em;
-    float: left;
-    margin: 0 1em 0 0;
 }
 
-div.clear {
-    clear: both;
+img.profile-img {
+    max-height: 12em;
+    height: auto;
+    width: auto;
 }
 
 .map-container {
     height: 400px;
 }
 
-.sidebar-img {
-    max-height: 200px;
+.footer-urls {
+    margin: 3em 0;
+}
+
+.feature__wrapper {
+    border-bottom: none;
+}
+
+.archive__item {
+    width: 100%;
+}
+
+.archive__item-teaser {
+    text-align: center;
 }

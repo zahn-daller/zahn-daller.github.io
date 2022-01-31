@@ -1,47 +1,48 @@
 ---
 layout: splash
 permalink: /
-last_modified_at: 2022-01-30
-specials:
-  - title: "Lachgas"
-    excerpt: "Viele Erwachsene und Kinder haben Angst vor dem Zahnarztbesuch oder sind sehr angespannt und verkrampft während der Behandlung. Eine Sedierung (Beruhigung bei vollem Bewusstsein) auf der Basis von Lachgas hilft Ihnen beim Entspannen, ebenso gegen Schmerz und Würgereiz."
-    url: "#lachgas"
-    btn_label: "Mehr …"
-    btn_class: "btn--primary"
-  - title: "Mundhygiene"
-    excerpt: "Ihr individuelles Risiko, Zahn- und Zahnfleischerkrankungen zu entwickeln, wird im Rahmen des Prophylaxe - Check-ups erfasst. Mit schonenden Verfahren werden hartnäckige Zahnbeläge, Zahnstein und Verfärbungen gründlich entfernt ..."
-    url: "#mundhygiene"
-    btn_label: "Mehr …"
-    btn_class: "btn--primary"
-  - title: "Weitere Leistungen"
-    excerpt: "Einene Überblick über alle unsere Leistungen finden sie hier ..."
-    url: "#leistungen"
-    btn_label: "Mehr …"
-    btn_class: "btn--primary"
+last_modified_at: 2022-02-01
+willkommen:
+  - image_path: /assets/images/logo.svg
+    image_class: logo
+    alt: "Zahnarzt Dr. med. dent. Sandra Daller"
+    title: "Herzlich Willkommen."
+    excerpt: >-
+      Ich freue mich Sie auf meiner Homepage begrüßen zu dürfen.
+about-me:
+  - image_path: /assets/images/sandra2.jpg
+    image_class: profile-img
+    alt: "Dr. med. dent. Sandra Daller"
+    title: "Dr. med. dent. Sandra Daller"
+    excerpt: >-
+      Nach meinem Zahnmedizinstudium an der medizinischen Universität Innsbruck habe ich von 2010 bis 2021 als selbstständige Zahnärtzin in Telfs / Tirol gearbeitet. Seit 2021 bin ich in meiner ursprünglichen Heimat Altenmarkt als Wahlzahnärztin in der Ordination von Dr. Claudia Tranninger tätig.
+leistungen:
+  - excerpt: "Mundhygiene / Professionelle Zahnreinigung"
+  - excerpt: "Weiße Füllungen"
+  - excerpt: "Kronen / Brücken"
+  - excerpt: "Abnehmbarer Zahnersatz"
+  - excerpt: "Implantatversorgungen"
+  - excerpt: "Wurzelbehandlungen"
+  - excerpt: "Ästhetische Zahnheilkunde - Veneers, Bleaching"
 ---
 <br/>
-<div class="intro">
-<img class="logo" alt="Dr. Sandra Oppeneiger" src="/assets/images/logo.svg">Herzlich Willkommen.<br />
-Liebe Patientinnen und Patienten, ich freue mich ..... bla bla bla
-</div>
+{% include feature_row id="willkommen" type="left" %}
 
-<div class="clear"></div>
-
-## Aktuelles
-<!--{% for post in site.posts limit: 3 %}
-  {% include archive-single.html %}
-{% endfor %}-->
-{% include archive-multi.html %}
+## Über mich
+{% include feature_row id="about-me" type="left" %}
 
 ## Leistungen
-{% include feature_row id="specials" %}
+{% include feature_row id="leistungen" %}
 
-## Öffnungszeiten
+## Kontakt
+Familydent<br />
+Oberndorferstra&szlig;e 1<br />
+5541 Altenmarkt
+
+### Öffnungszeiten
+
 Montag
 :   9:00 – 12:00
-
-Dienstag, Donnerstag, Samstag, Sonntag
-:   Geschlossen
 
 Mittwoch
 :   16:00 – 19:00
@@ -49,6 +50,10 @@ Mittwoch
 Freitag
 :   8:00 – 12:00
 
-<br />
-Termine nach telefonischer Vereinbarung.
-:   Telefon: {{ site.telefon }}
+Dienstag, Donnerstag, Samstag, Sonntag
+:   Geschlossen
+
+
+### Anfahrt
+
+{% include google-map.html %}

@@ -1,7 +1,7 @@
 ---
 title: "Datenschutz"
 permalink: /datenschutz
-last_modified_at: 2022-01-30
+sitemap: false
 ---
 
 ## Website

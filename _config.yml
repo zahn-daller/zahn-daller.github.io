@@ -14,6 +14,7 @@ description: >-
 logo: "/assets/images/icon.svg"
 atom_feed:
   hide: true
+search: true
 
 baseurl: ""
 url: "https://zahnarzt.daller.org"
@@ -37,14 +38,6 @@ defaults:
       type: pages
     values:
       layout: single
-      sidebar:
-        - image: /assets/images/logo.svg
-          image_alt: "Dr. Sandra Oppeneiger"
-          image_class: sidebar-img
-          title: "Öffnungszeiten"
-          text: "Mo. 9:00-12:00<br/>Di., Do., Sa., So. geschlossen<br/>Mi. 16:00-19:00<br/>Fr. 8:00-12:00"
-        - title: "Kontakt"
-          text: "Oberndorferstraße 1<br/>5541 Altenmarkt<br/><br/>Tel.: 06452 / 21013"
   # _posts
   - scope:
       path: ""

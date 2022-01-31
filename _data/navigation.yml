@@ -2,12 +2,8 @@ main:
   - title: "Home"
     url: /
   - title: "Über mich"
-    url: /about
+    url: /#über-mich
+  - title: "Leistungen"
+    url: /#leistungen
   - title: "Kontakt"
-    url: /kontakt
-  - title: "Öffnungszeiten"
-    url: /oeffnungszeiten
-  - title: "Impressum"
-    url: /impressum
-  - title: "Datenschutz"
-    url: /datenschutz
+    url: /#kontakt

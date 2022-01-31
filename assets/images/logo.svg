@@ -6,9 +6,9 @@
    id="Layer_1"
    x="0px"
    y="0px"
-   width="521.77759"
-   height="569.79034"
-   viewBox="0 0 521.77759 569.79034"
+   width="642.17737"
+   height="568.45587"
+   viewBox="0 0 642.17737 568.45587"
    enable-background="new 0 0 2340 1560"
    xml:space="preserve"
    sodipodi:docname="logo.svg"
@@ -40,18 +40,23 @@
    inkscape:pagecheckerboard="0"
    showgrid="false"
    inkscape:zoom="0.74935897"
-   inkscape:cx="-142.12147"
+   inkscape:cx="-80.735672"
    inkscape:cy="284.91018"
    inkscape:window-width="3440"
    inkscape:window-height="1377"
    inkscape:window-x="3832"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="g97"
+   inkscape:current-layer="Layer_1"
    fit-margin-top="0"
    fit-margin-left="0"
    fit-margin-right="0"
-   fit-margin-bottom="0" />
+   fit-margin-bottom="0"
+   showguides="true"
+   inkscape:guide-bbox="true"><sodipodi:guide
+     position="321.0506,820.67144"
+     orientation="1,0"
+     id="guide6422" /></sodipodi:namedview>
 <metadata
    id="metadata75"><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
 <x:xmpmeta
@@ -1056,7 +1061,7 @@ xV2Kv//Z</xmpGImg:image>
 	</metadata>
 <g
    id="g97"
-   transform="translate(-913.26453,-494.425)">
+   transform="translate(-850.43634,-494.425)">
 	
 	
 	
@@ -1078,15 +1083,15 @@ xV2Kv//Z</xmpGImg:image>
      y="1012.1933"
      id="tspan29396">ZAHNARZT</tspan></text><text
    xml:space="preserve"
-   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:3px;fill:#9a9998;fill-opacity:1;stroke:none"
-   x="948.15912"
-   y="1063.6099"
+   style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0.2px;fill:#9a9998;fill-opacity:1;stroke:none"
+   x="846.7254"
+   y="1062.2754"
    id="text7198"><tspan
      sodipodi:role="line"
      id="tspan7196"
-     x="948.15912"
-     y="1063.6099"
-     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#9a9998;fill-opacity:1">Dr. Sandra Daller</tspan></text></g>
+     x="846.7254"
+     y="1062.2754"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#9a9998;fill-opacity:1">Dr. med. dent. Sandra Daller</tspan></text></g>
 
 <linearGradient
    id="SVGID_1_"
@@ -1095,7 +1100,7 @@ xV2Kv//Z</xmpGImg:image>
    y1="959.99799"
    x2="986.80847"
    y2="493.9707"
-   gradientTransform="translate(-913.26453,-494.425)">
+   gradientTransform="translate(-850.43634,-494.425)">
 	<stop
    offset="0"
    style="stop-color:#138C39"
@@ -1107,7 +1112,7 @@ xV2Kv//Z</xmpGImg:image>
 </linearGradient>
 <path
    fill="url(#SVGID_1_)"
-   d="m 363.47447,0 c -22.981,0 -51.3,15.624 -71.988,27.037 -3.773,2.083 -13.366,7.751 -13.104,9.154 0.274,1.502 11.502,5.383 19.385,7.861 38.78,12.208 86.781,9.057 83.008,10.904 -66.65,32.609 -132.563,-12.28 -168.208,-33.127 C 190.57047,8.964 167.66647,0 149.99147,0 81.676474,0 40.851474,59.703 40.851474,117.428 c 0,16.232 0.088,32.919 5.958,55.751 17.334,67.378 80.238996,-51.557 160.473996,-33.313 C 93.615474,97.063 72.871474,192.575 67.889474,130.744 c -8.815,-109.332 142.506996,-22.3 198.333996,5.613 -77.881,-0.701 -94.337,147.179 -204.885996,95.43 5.225,14.577 21.764,61.748 28.063,76.22 13.270996,30.502 27.853996,57.752 41.041996,76.732 12.834,18.474 20.443,26.687 23.101,25.527 0.609,-0.269 1.162,-1.473 1.546,-2.532 5.471,-15.136 10.542,-33.039 15.92,-51.99 8.502,-30.051 17.3,-61.106 28.982,-85.435 15.229,-31.757 33.483,-47.189 55.817,-47.189 h 1.842 c 23.111,0 41.772,15.553 57.057,47.551 11.729,24.554 20.227,55.675 28.439,85.775 5.13,18.804 8.902,33.484 14.176,48.277 0.34,0.95 1.732,4.436 2.653,5.017 3.268,2.101 10.799,-8.354 22.618,-25.594 13.179,-19.215 27.827,-46.789 41.202,-77.624 30.106,-69.379 48.822,-141.839 48.822,-189.094 C 472.61747,59.703 431.79947,0 363.47447,0 Z"
+   d="m 426.30266,0 c -22.981,0 -51.3,15.624 -71.988,27.037 -3.773,2.083 -13.366,7.751 -13.104,9.154 0.274,1.502 11.502,5.383 19.385,7.861 38.78,12.208 86.781,9.057 83.008,10.904 -66.65,32.609 -132.563,-12.28 -168.208,-33.127 C 253.39866,8.964 230.49466,0 212.81966,0 c -68.315,0 -109.14,59.703 -109.14,117.428 0,16.232 0.088,32.919 5.958,55.751 17.334,67.378 80.239,-51.557 160.474,-33.313 -113.668,-42.803 -134.412,52.709 -139.394,-9.122 -8.815,-109.332 142.507,-22.3 198.334,5.613 -77.881,-0.701 -94.337,147.179 -204.886,95.43 5.225,14.577 21.764,61.748 28.063,76.22 13.271,30.502 27.854,57.752 41.042,76.732 12.834,18.474 20.443,26.687 23.101,25.527 0.609,-0.269 1.162,-1.473 1.546,-2.532 5.471,-15.136 10.542,-33.039 15.92,-51.99 8.502,-30.051 17.3,-61.106 28.982,-85.435 15.229,-31.757 33.483,-47.189 55.817,-47.189 h 1.842 c 23.111,0 41.772,15.553 57.057,47.551 11.729,24.554 20.227,55.675 28.439,85.775 5.13,18.804 8.902,33.484 14.176,48.277 0.34,0.95 1.732,4.436 2.653,5.017 3.268,2.101 10.799,-8.354 22.618,-25.594 13.179,-19.215 27.827,-46.789 41.202,-77.624 30.106,-69.379 48.822,-141.839 48.822,-189.094 C 535.44566,59.703 494.62766,0 426.30266,0 Z"
    id="path134"
    style="fill:url(#SVGID_1_)" />
 </svg>

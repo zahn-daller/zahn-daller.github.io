@@ -1,7 +1,7 @@
 ---
 title: "Impressum"
 permalink: /impressum
-last_modified_at: 2022-01-30
+sitemap: false
 ---
 
 ### Angaben gem&auml;&szlig; &sect; 5 TMG
