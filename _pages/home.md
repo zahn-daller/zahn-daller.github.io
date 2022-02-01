@@ -25,6 +25,7 @@ leistungen:
   - excerpt: "Wurzelbehandlungen"
   - excerpt: "Ästhetische Zahnheilkunde - Veneers, Bleaching"
 ---
+<h1 class="hide">{{ site.title }}</h1>
 <br/>
 {% include feature_row id="willkommen" type="left" %}
 
