@@ -17,7 +17,7 @@ about-me:
     alt: "Zahnarzt Dr. med. dent. Sandra Daller"
     title: "Dr. med. dent. Sandra Daller"
     excerpt: >-
-      Nach meinem Zahnmedizinstudium an der medizinischen Universität Innsbruck habe ich von 2010 bis 2021 als selbstständige Zahnärtzin in Telfs / Tirol gearbeitet. Seit 2021 bin ich in meiner ursprünglichen Heimat Altenmarkt als Wahlzahnärztin in der Ordination von Dr. Claudia Tranninger tätig.
+      Nach meinem Zahnmedizinstudium an der medizinischen Universität Innsbruck habe ich von 2010 bis 2021 als selbstständige Zahnärztin in Telfs / Tirol gearbeitet. Seit 2021 bin ich in meiner ursprünglichen Heimat Altenmarkt als Wahlzahnärztin in der Ordination von Dr. Claudia Tranninger tätig.
 leistungen:
   - excerpt: "Mundhygiene / Professionelle Zahnreinigung"
   - excerpt: "Weiße Füllungen"
