@@ -7,14 +7,14 @@ title: Zahnarzt Dr. med. dent. Sandra Daller
 title_separator: "|"
 name: "Dr. med. dent. Sandra Daller"
 email: praxis@daller.org
-telefon: "06452 / 21013"
+telefon: "+43 6452 / 21013"
 locale: "de-AT"
 description: >-
   Zahnarzt Dr. med. dent. Sandra Daller in Altenmarkt im Pongau / Salzburg. Eben, Flachau, Radstadt
+  CAD / CAM, Abdruckfrei, DVT - digitale Volumentomographie, digitaler Abdruck, Knirschschiene
 logo: "/assets/images/icon.svg"
 atom_feed:
   hide: true
-search: true
 
 baseurl: ""
 url: "https://zahnarzt.daller.org"
@@ -46,15 +46,3 @@ defaults:
       layout: single
       share: true
       related: false
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/

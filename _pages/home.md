@@ -39,7 +39,22 @@ Familydent<br />
 Oberndorferstra&szlig;e 1<br />
 5541 Altenmarkt
 
-### Öffnungszeiten
+
+### Telefonische Sprechzeiten
+Montag
+:   8:00 – 12:00 und 13:00 – 17:00
+
+Dienstag, Donnerstag
+:   13:00 – 18:00
+
+Mittwoch
+:   08:00 – 12:00 und 16:00 – 19:00
+
+Freitag
+:   08:00 – 12:00
+
+
+### Ordinationszeiten
 
 Montag
 :   9:00 – 12:00
