@@ -42,6 +42,7 @@ Familydent<br />
 Oberndorferstra&szlig;e 1<br />
 5541 Altenmarkt im Pongau / Salzburg
 
+Tel.: {{ site.telefon }}
 
 ### Telefonische Sprechzeiten
 Montag
