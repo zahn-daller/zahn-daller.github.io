@@ -4,11 +4,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Zahnarzt Dr. med. dent. Sandra Daller
-masthead_title: Zahnärztin Dr. med. dent. Sandra Daller
+masthead_title: Zahnärztin Dr. med. dent. Sandra&nbsp;Daller
 title_separator: "|"
 name: "Dr. med. dent. Sandra Daller"
 email: praxis@daller.org
-telefon: "+43 6452 / 21013"
+telefon: "+43&nbsp;6452&nbsp;/&nbsp;21013"
 locale: "de-AT"
 description: >-
   Zahnarzt Dr. med. dent. Sandra Daller in Altenmarkt im Pongau / Salzburg. Gleich in der Nähe von Eben, Flachau, Radstadt
