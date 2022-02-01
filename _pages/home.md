@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-last_modified_at: 2022-02-01
+last_modified_at: 2022-02-01 01:41
 willkommen:
   - image_path: /assets/images/logo.svg
     image_class: logo
