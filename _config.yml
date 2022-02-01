@@ -4,6 +4,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Zahnarzt Dr. med. dent. Sandra Daller
+masthead_title: Zahnärztin Dr. med. dent. Sandra Daller
 title_separator: "|"
 name: "Dr. med. dent. Sandra Daller"
 email: praxis@daller.org
