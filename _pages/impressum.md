@@ -5,7 +5,7 @@ sitemap: false
 ---
 
 ### Angaben gem&auml;&szlig; &sect; 5 TMG
-Dr. Sandra Daller<br />
+Dr. med. dent. Sandra Daller<br />
 Zahnarzt<br />
 Oberndorferstra&szlig;e 1<br />
 5541 Altenmarkt
@@ -22,7 +22,7 @@ Zust&auml;ndige Kammer:<br />
 &Ouml;sterreichische &Auml;rztekammer<br />
 
 ### Redaktionell verantwortlich
-Dr. Sandra Daller
+Dr. med. dent. Sandra Daller
 
 ### Copyright
 <a href="https://www.vecteezy.com/free-vector/dental">Dental Vectors by Vecteezy</a>
