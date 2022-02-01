@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-last_modified_at: 2022-02-01 01:41
+last_modified_at: 2022-02-01 02:48
 willkommen:
   - image_path: /assets/images/logo.svg
     image_class: logo
@@ -12,7 +12,7 @@ willkommen:
 about-me:
   - image_path: /assets/images/sandra2.jpg
     image_class: profile-img
-    alt: "Dr. med. dent. Sandra Daller"
+    alt: "Zahnarzt Dr. med. dent. Sandra Daller"
     title: "Dr. med. dent. Sandra Daller"
     excerpt: >-
       Nach meinem Zahnmedizinstudium an der medizinischen Universität Innsbruck habe ich von 2010 bis 2021 als selbstständige Zahnärtzin in Telfs / Tirol gearbeitet. Seit 2021 bin ich in meiner ursprünglichen Heimat Altenmarkt als Wahlzahnärztin in der Ordination von Dr. Claudia Tranninger tätig.
@@ -37,7 +37,7 @@ leistungen:
 ## Kontakt
 Familydent<br />
 Oberndorferstra&szlig;e 1<br />
-5541 Altenmarkt
+5541 Altenmarkt im Pongau / Salzburg
 
 
 ### Telefonische Sprechzeiten
