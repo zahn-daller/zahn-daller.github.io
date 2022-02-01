@@ -19,6 +19,11 @@ baseurl: ""
 url: "https://zahnarzt.daller.org"
 domain: "zahnarzt.daller.org"
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: G-4CTQPCVH2P
+
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
