@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 date: "2022-02-01"
-last_modified_at: 2022-02-01 02:48
+last_modified_at: 2022-02-04 09:29
 title: Zahnarzt Dr. med. dent. Sandra Daller
 willkommen:
   - image_path: /assets/images/logo2.svg
