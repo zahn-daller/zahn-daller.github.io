@@ -2,12 +2,13 @@
 title: "Impressum"
 permalink: /impressum
 sitemap: false
+last_modified_at: 2022-05-16 17:54
 ---
 
 ### Angaben gem&auml;&szlig; &sect; 5 TMG
 Dr. med. dent. Sandra Daller<br />
 Zahnarzt<br />
-Oberndorferstra&szlig;e 1<br />
+Oberndorferstra&szlig;e 46<br />
 5541 Altenmarkt
 
 ### Kontakt
