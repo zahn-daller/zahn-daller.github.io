@@ -38,7 +38,6 @@ leistungen:
 {% include feature_row id="leistungen" %}
 
 ## Kontakt
-Familydent<br />
 Oberndorferstra&szlig;e&nbsp;46<br />
 5541 Altenmarkt im Pongau / Salzburg
 
